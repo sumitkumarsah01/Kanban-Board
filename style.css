@@ -45,6 +45,9 @@ nav{
     justify-content: space-between;
     padding: var(--nav-padding);
 }
+nav .left{
+    font-size: 30px;
+}
 nav button{
     padding:var(--add-task-padding);
     border: none;
