@@ -26,7 +26,7 @@ CSS3
 JavaScript (ES6)
 
 ⚙️ How to Run
-git clone https://github.com/sumitkumarsah01/kanban-board-js.git
+git clone https://github.com/sumitkumarsah01/Kanban-Board
 
 
 Then open index.html in any browser.
